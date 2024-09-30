@@ -646,3 +646,10 @@ table {
   font-family: "Poppins";
   font-weight: 600;
 }
+
+/* Log In Page */
+
+.log-in {
+  justify-content: center;
+  row-gap: 3rem;
+}
